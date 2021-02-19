@@ -1,0 +1,13 @@
+package vererbung1;
+
+public class Program {
+	
+	public static void main(String[] args) {
+		
+		Dog hund1 = new Dog();
+		
+		hund1.age = 20;
+		hund1.bark();
+	
+	}	
+}

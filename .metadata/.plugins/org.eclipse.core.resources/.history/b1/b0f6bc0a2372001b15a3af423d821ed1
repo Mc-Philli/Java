@@ -1,0 +1,8 @@
+package vererbung1;
+
+public class Dog {
+	//Attribute
+	String name;
+	int age;
+	String color;
+}

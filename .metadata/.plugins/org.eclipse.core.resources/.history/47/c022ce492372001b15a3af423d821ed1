@@ -1,0 +1,13 @@
+package vererbung1;
+
+public class Dog {
+	// Attribute
+	String name;
+	int age;
+	String color;
+
+//Methoden
+	public void sleep() {
+		System.out.println("Ich schlafe gerade...");
+	}
+}
