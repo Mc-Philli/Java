@@ -1,0 +1,15 @@
+package vererbung1;
+
+import vererbung1.*;
+
+public class Dog extends Animal{
+
+	public void bark() {
+		System.out.println("Waww");
+	}
+	
+	public void sayColor() {
+		System.out.println("Meine Farbe ist: " + color);
+	}
+	
+}
