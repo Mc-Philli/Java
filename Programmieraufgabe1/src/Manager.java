@@ -9,6 +9,7 @@ public class Manager extends Employee {
 
 	public Manager(String fn, String ln, long Id, int noe) {
 		super(fn,ln,Id);
+		this.numberOfEmployees = noe;
 		System.out.println("Es wurde ein neuer Manager mit folgenden Values angelegt: " + fn + " " + ln + " " + Id
 				+ " " + noe + " ");
 	}

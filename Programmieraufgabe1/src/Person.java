@@ -5,8 +5,8 @@ public class Person {
 	private String lastName;
 
 	public Person(String fn, String ln) {
-		Manager tim = new Manager("Tim", "Testbenutzer", 3323830,25);
-		System.out.println(tim.getLastName());
+	 this.firstName = fn;
+	 this.lastName = ln;
 	}
 
 	public Person() {
@@ -27,11 +27,6 @@ public class Person {
 
 	public void setLastName(String lastName) {
 		this.lastName = lastName;
-	}
-
-	public static void main(String[] args) {
-		
-
 	}
 
 }
