@@ -15,6 +15,10 @@ public class Animal {
 
 	// Methoden
 
+	public void move () {
+		System.out.println("Geschwindigkeit: 10 Km/h");
+	}
+	
 	public void sleep() {
 		System.out.println("Ich schlafe gerade...");
 	}
