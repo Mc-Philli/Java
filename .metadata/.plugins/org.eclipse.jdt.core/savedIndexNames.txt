@@ -1,3 +1,2 @@
 INDEX VERSION 1.131+/Users/marc/Documents/Code/Java/.metadata/.plugins/org.eclipse.jdt.core
-3249186665.index
 1684655455.index
